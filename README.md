@@ -6,7 +6,7 @@ git pull origin master --allow-unrelated-histories
 git merge origin origin/master
 
 
-## done
+## learn oop 
 ```go
 type deck []string
 
