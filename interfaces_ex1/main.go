@@ -31,8 +31,8 @@ func main() {
 
 	drawing := MyDrawing{
 		shapes: []Shape{
-			Circle{Radius: 5},
-			Square{sideLenght: 5},
+			Circle{Radius: 10},
+			Square{sideLenght: 10},
 		},
 		bgColor: "White",
 		fgColor: "red",
